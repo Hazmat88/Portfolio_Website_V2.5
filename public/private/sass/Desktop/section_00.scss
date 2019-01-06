@@ -1,0 +1,26 @@
+
+//NECESSARY IMPORT
+@import "../var/colors.scss";
+
+.section_00{
+  background-color: $beige;
+}
+
+
+//LOGOS Wrapper
+.test{
+  width: 300px;
+  height: 300px;
+  background-color: $black;
+}
+
+.section_00{
+  h1{
+    margin-top: 100px;
+        font-size:3.5em;
+  }
+  h2{
+    padding-top: 100px;
+    font-size:3.5em;
+  }
+}

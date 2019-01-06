@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,WAAW;EACT,gBAAgB,ECHV,OAAO;;ADQf,KAAK;EACH,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,ECVV,OAAO;;ADcb,cAAE;EACA,UAAU,EAAE,KAAK;EACb,SAAS,EAAC,KAAK;AAErB,cAAE;EACA,WAAW,EAAE,KAAK;EAClB,SAAS,EAAC,KAAK",
+"sources": ["../../sass/Desktop/section_00.scss","../../sass/var/colors.scss"],
+"names": [],
+"file": "section_00.css"
+}
